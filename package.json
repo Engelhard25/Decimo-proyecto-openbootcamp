@@ -1,0 +1,16 @@
+{
+  "name": "decimo-proyecto",
+  "version": "1.0.0",
+  "description": "Openbootcamp decimo proyecto",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Engelhard Pacheco",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.1"
+  }
+}
